@@ -1,6 +1,6 @@
 # Instacart Data Exploration by Sai Mulagan
 
-This project looks into data pertaining to instacart. We will examine its quality, resolve inconsistencies, and subsequently look into insights that could reshape how we understand online shopping. As we navigate through the data's labyrinth, you'll discover shopping peak times, the most coveted products, and habits that define a shopper's journey on Instacart. So, strap in and prepare for a data-driven excursion that promises to be as enlightening as it is engaging.
+This project looks into data pertaining to instacart. We will examine its quality, resolve inconsistencies, and  look into insights that could reshape how we understand online shopping. As we look through the data, you'll discover shopping peak times, popular products, and habits that define a shopper's journey on Instacart. 
 
 
 ```python
